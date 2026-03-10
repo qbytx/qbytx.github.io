@@ -1,1 +1,6 @@
+title: Qbytx
+description: Fullstack developer. Interactive media, games, and social apps.
 theme: minima
+
+minima:
+  skin: dark
